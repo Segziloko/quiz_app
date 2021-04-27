@@ -10,6 +10,6 @@ Based on the users' choices from the available options, a result showing the kin
 
 # Usage
 
-Main Dart Code File: `main.dart`
+Main Dart Code File: `lib`
 
 Clone and run `flutter pub get` to contribute.
