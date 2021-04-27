@@ -4,11 +4,11 @@ This is an Android app developed with Flutter that asks users' questions about s
 
 Based on the users' choices from the available options, a result showing the kind of personality they have is displayed.
 
-# Demo
+## Demo
 
 ![](/images/demo.png)
 
-# Usage
+## Usage
 
 Main Dart Code Folder: `lib`
 
